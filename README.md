@@ -1,4 +1,4 @@
-## 前言
+## 不错的VUE+WEBPACK单页应用脚手架,转自二哲的github https://github.com/MeCKodo
 
 我们将会选择使用一些vue周边的库 `vue-cli`, `vue-router`,`vue-resource`,`vuex`
 
